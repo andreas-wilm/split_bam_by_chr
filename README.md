@@ -1,6 +1,8 @@
 Split BAM by Chromosome
 =======================
 
+WARNING: replaced by more powerful [split_bam](https://github.com/andreas-wilm/split_bam)
+
 Splits your BAM/SAM into one file per SQ, plus one for unaligned reads.
 
 Similar to bamUtils splitBam
